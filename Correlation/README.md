@@ -7,5 +7,5 @@ The output saved as .csv will be used to generate the plots.
 
 "plot_correlations.py" uses the saved ouput.csv to plot different words belonging to output.csv.
 
-I also uploaded some plots generated with these codes.
+I also uploaded some plots generated with these codes, see pdfs.
 
